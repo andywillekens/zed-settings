@@ -1,0 +1,123 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "theme": "Aura Dark",
+  "theme_overrides": {
+    "Aura Dark": {
+      "border.variant": "#15141C",
+      "border": "#15141C",
+      "title_bar.background": "#15141C",
+      "panel.background": "#15141C",
+      "panel.focused_border": "#4E466E",
+      "players": [
+        {
+          "cursor": "#bd9dff",
+        },
+      ],
+      "syntax": {
+        "comment": {
+          "font_style": "italic",
+        },
+        "comment.doc": {
+          "font_style": "italic",
+        },
+      },
+    },
+  },
+
+  "icon_theme": "Soft Charmed Icons",
+
+  "ui_font_family": "FiraCode Nerd Font Mono",
+  "ui_font_size": 14,
+  "buffer_font_family": "FiraCode Nerd Font Mono",
+  "buffer_font_size": 14,
+  "buffer_line_height": {
+    "custom": 2,
+  },
+
+  "base_keymap": "VSCode",
+
+  "agent": {
+    "button": true,
+    "dock": "left",
+  },
+  "agent_ui_font_size": 14,
+  "agent_buffer_font_size": 14,
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry",
+    },
+  },
+
+  "languages": {
+    "Vue.js": {
+      "tasks": {
+        "enabled": true,
+        "prefer_lsp": true,
+      },
+      "show_wrap_guides": true,
+      "colorize_brackets": false,
+      "inlay_hints": {
+        "enabled": false,
+      },
+      "indent_guides": {
+        "enabled": true,
+        "background_coloring": "disabled",
+        "coloring": "fixed",
+      },
+      "soft_wrap": "editor_width",
+    },
+  },
+
+  "semantic_tokens": "combined",
+
+  "tabs": {
+    "git_status": true,
+  },
+
+  "title_bar": {
+    "show_branch_status_icon": true,
+  },
+
+  "outline_panel": {
+    "dock": "left",
+  },
+
+  "collaboration_panel": {
+    "dock": "left",
+  },
+
+  "git_panel": {
+    "dock": "left",
+  },
+
+  "project_panel": {
+    "default_width": 400,
+    "dock": "right",
+    "hide_root": true,
+    "auto_fold_dirs": false,
+  },
+
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+
+  "session": {
+    "trust_all_worktrees": true,
+  },
+
+  "gutter": {
+    "min_line_number_digits": 0,
+    "folds": false,
+    "runnables": false,
+    "breakpoints": false,
+    "bookmarks": false,
+  },
+}
