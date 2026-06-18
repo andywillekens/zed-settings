@@ -1,5 +1,5 @@
-# Zed settings.json
-Just how I like it!
+# Developer settings
+My shit, just how I like it!
 
 ## External sources
 [Starship](https://starship.rs/)
