@@ -1,5 +1,5 @@
 # My developer setup
-Within this repo I save the apps, tools and other settings I use personally and profesionally. 
+The Apps, Tools and sources I need and use daily
 
 # External sources
 
