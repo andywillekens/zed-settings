@@ -1,5 +1,5 @@
-# My developer setup
-The Apps, Tools and sources I need and use daily
+# My MacBook setup
+The Apps, Tools and sources I need and use daily!
 
 # External sources
 
