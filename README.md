@@ -3,9 +3,6 @@ Within this repo I save the apps, tools and other settings I use personally and 
 
 # External sources
 
-### Bash styling
-- [Starship](https://starship.rs/)
-
 ### Fonts
 - [FiraCode Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip)
 - [FireCode Nerd Icon Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/NerdFontsSymbolsOnly.zip)
@@ -40,9 +37,9 @@ Within this repo I save the apps, tools and other settings I use personally and 
 | **Postman** | Nice API tool | [https://www.postman.com/](https://www.postman.com/) |
 | **Lazydocker** | Lightweight Docker TUI | [https://formulae.brew.sh/formula/lazydocker](https://formulae.brew.sh/formula/lazydocker) |
 | **Colima** | Container runetime | [https://colima.run/](https://colima.run/) |
-| **** |  | []() |
- 
 
 ### Design
+| Name | Description | Website |
+| :----------- |:---------------| --------------|
 | **Figma** | Digital Design and prototype tool | [https://www.figma.com/downloads/](https://www.figma.com/downloads/) |
 | **Affinity** | Adobe suite replacement | [https://www.affinity.studio/download](https://www.affinity.studio/download) |
