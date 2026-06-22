@@ -25,6 +25,7 @@ The Apps, Tools and sources I need and use daily!
 | **Spotify** | Can't live without music! | [https://www.spotify.com/download/mac/](https://www.spotify.com/download/mac/) |
 | **MacMediaKeyForwarder** | Put Spotify above iTunes | [https://github.com/quentinlesceller/macmediakeyforwarder/releases](https://github.com/quentinlesceller/macmediakeyforwarder/releases) |
 | **AppCleaner** | Removes the crap left over | [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/) |
+| **Stats** | Displays stats in menubar | [https://mac-stats.com/](https://mac-stats.com/) |
 
 ### Development
 
