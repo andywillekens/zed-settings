@@ -37,7 +37,7 @@ The Apps, Tools and sources I need and use daily!
 | **ZED** | Good performant IDE | [https://zed.dev/](https://zed.dev/) |
 | **Postman** | Nice API tool | [https://www.postman.com/](https://www.postman.com/) |
 | **Lazydocker** | Lightweight Docker TUI | [https://formulae.brew.sh/formula/lazydocker](https://formulae.brew.sh/formula/lazydocker) |
-| **Colima** | Container runetime | [https://colima.run/](https://colima.run/) |
+| **OrbStack** | Lightweight Docker containers | [https://orbstack.dev/](https://orbstack.dev/) |
 
 ### Design
 | Name | Description | Website |
