@@ -14,7 +14,7 @@ The Apps, Tools and sources I need and use daily!
 | Name | Description | Website |
 | :----------- |:---------------| :-------------|
 | **Brew** | Do I need to explain? | [https://brew.sh/](https://brew.sh/) |
-| **Zen**         | Webbrowser build on top of Firefox             | [https://zen-browser.app/](https://zen-browser.app/)            |
+| **Firefox**         | The best webbrowser            | [https://www.firefox.com/](https://www.firefox.com/)            |
 | **Obsidian**      | Notetaking app in markdown format           | [https://obsidian.md/](https://obsidian.md/)       |
 | **Mac mouse fix**      | Fix mouse behavior          | [https://macmousefix.com/](https://macmousefix.com/)         |
 | **Rectangle**      | Fix window snapping          | [https://rectangleapp.com/](https://rectangleapp.com/)         |
